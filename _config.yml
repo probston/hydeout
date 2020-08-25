@@ -14,9 +14,9 @@ baseurl:          ''
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
-  name:           'Yun Chen'
-  url:            https://twitter.com/yunchen
+#author:
+ # name:           'Yun Chen'
+ # url:            https://twitter.com/yunchen
 
 paginate:         5
 paginate_path:    '/blog/page:num/'
