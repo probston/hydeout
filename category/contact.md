@@ -2,5 +2,8 @@
 layout: category
 title: Contact
 ---
+You can find me on the following: 
 
-Will include contact information soon.
+[LinkedIn](https://www.linkedin.com/in/yunchen00/)
+
+[Twitter](https://twitter.com/YunChen)
