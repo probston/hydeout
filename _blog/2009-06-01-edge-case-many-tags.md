@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Edge Case: Many Tags"
 categories:
   - Edge Case
