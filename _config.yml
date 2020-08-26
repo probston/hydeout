@@ -5,7 +5,6 @@ highlighter:      rouge
 # Setup
 title:            Yun Chen
 email:            yun.chen@rutgers.edu  
-tagline:          
 description:      "Computer Engineering Student at Rutgers University"
 url:              https://yunchen.io
 baseurl:
@@ -15,6 +14,8 @@ baseurl:
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
+linkedin: yunchen00
+github_username: probston                  
 author:
   name:           'Yun Chen'
   url:            https://twitter.com/yunchen
@@ -27,10 +28,6 @@ paginate_path: '/blog/page:num'
 sidebar_home_link: true
 sidebar_blog_link: '/blog'
 
-
-
-github:
-  repo:           https://github.com/probston/probston.github.io
 
 #disqus:
 #  shortname: 
