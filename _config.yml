@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Yun Chen
 email:            yun.chen@rutgers.edu  
 tagline:          
-description:      "Hello World!"
+description:      "Computer Engineering Student at Rutgers University"
 url:              https://yunchen.io
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
