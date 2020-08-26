@@ -2,7 +2,7 @@
 layout: category
 title: Contact
 ---
-You can find me on the following: 
+You can connect with me with the following: 
 
 [Email](info@yunchen.io)
 
