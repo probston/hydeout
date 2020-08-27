@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guinea Pigs
+title: Pets
 sidebar_link: true
 ---
 
